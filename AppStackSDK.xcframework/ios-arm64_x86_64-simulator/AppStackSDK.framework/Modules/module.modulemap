@@ -1,0 +1,6 @@
+framework module AppStackSDK {
+  umbrella header "AppStackSDK.h"
+  export *
+
+  module * { export * }
+}
